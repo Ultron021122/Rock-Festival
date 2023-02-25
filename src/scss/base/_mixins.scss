@@ -27,6 +27,12 @@
     gap: $space;
 }
 
+@mixin resetear-lista {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 
 // @mixin heading($color: blue) {
 //     text-transform: uppercase;
